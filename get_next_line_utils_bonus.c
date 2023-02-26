@@ -1,16 +1,16 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   get_next_line_utils.c                              :+:      :+:    :+:   */
+/*   get_next_line_utils_bonus.c                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: ymarival <ymarival@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/08/15 18:00:00 by cvidon            #+#    #+#             */
-/*   Updated: 2022/12/18 19:12:10 by ymarival         ###   ########.fr       */
+/*   Created: 2022/12/19 18:17:41 by ymarival          #+#    #+#             */
+/*   Updated: 2022/12/19 18:18:28 by ymarival         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 char	*ft_strchr(char const *s, int c)
 {

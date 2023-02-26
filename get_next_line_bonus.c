@@ -1,16 +1,16 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   get_next_line.c                                    :+:      :+:    :+:   */
+/*   get_next_line_bonus.c                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: ymarival <ymarival@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/08/15 18:00:00 by cvidon            #+#    #+#             */
-/*   Updated: 2022/12/18 19:12:42 by ymarival         ###   ########.fr       */
+/*   Created: 2022/12/19 18:13:56 by ymarival          #+#    #+#             */
+/*   Updated: 2023/01/12 21:07:18 by ymarival         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 static char	*ft_next(char **temp)
 {
